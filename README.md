@@ -1,6 +1,6 @@
 # Projeto Angular - Catálogo de Livros
 
-Este projeto é uma aplicação Single Page Application (SPA) desenvolvida em **Angular** para a disciplina de Aprofundamento em Desenvolvimento Front-End. O objetivo principal do trabalho foi construir um catálogo interativo para listagem e cadastro de livros.
+Este projeto é uma aplicação de pagina unica desenvolvida em **Angular** para a disciplina de Aprofundamento em Desenvolvimento Front-End. O objetivo principal do trabalho foi construir um catálogo interativo para listagem e cadastro de livros.
 
 ## O que foi desenvolvido
 
